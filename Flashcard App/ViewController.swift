@@ -22,5 +22,10 @@ class ViewController: UIViewController {
     
     }
     
+    func updateFlashcard(Question: String, answer: String) {
+
+      
+        
 }
 
+}
