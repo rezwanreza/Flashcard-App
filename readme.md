@@ -1,12 +1,14 @@
 
+
 ## Lab 2
 
 ### App Description
-Question and answer fields for users to input text. Created cancel and done bar button items to close out of the window.
+Question and Answer Flashcard
 
 ### App Walk-though
+User can create their new flashcard with questions and answers of their choice.
 
-<img src="http://g.recordit.co/Bf96jk4f54.gif" width=200><br>
+<img src="http://g.recordit.co/fWfSnj8QBb.gif" width=200><br>
 
 ## Required
 - [X] User can open the creation screen
@@ -38,3 +40,4 @@ Question and answer fields for users to input text. Created cancel and done bar 
 - [ ] Toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
+
