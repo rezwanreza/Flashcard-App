@@ -81,7 +81,6 @@
 		99747F3028D63E2D005CC824 = {
 			isa = PBXGroup;
 			children = (
-				999D5E5028EBB0B000A76706 /* CreationViewController.swift */,
 				99747F3B28D63E2D005CC824 /* Flashcard App */,
 				99747F5228D63E30005CC824 /* Flashcard AppTests */,
 				99747F5C28D63E30005CC824 /* Flashcard AppUITests */,
@@ -104,6 +103,7 @@
 			children = (
 				99747F3C28D63E2D005CC824 /* AppDelegate.swift */,
 				99747F3E28D63E2D005CC824 /* SceneDelegate.swift */,
+				999D5E5028EBB0B000A76706 /* CreationViewController.swift */,
 				99747F4028D63E2D005CC824 /* ViewController.swift */,
 				99747F4228D63E2D005CC824 /* Main.storyboard */,
 				99747F4528D63E2F005CC824 /* Assets.xcassets */,
