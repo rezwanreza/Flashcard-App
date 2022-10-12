@@ -6,7 +6,7 @@
 ### App Walk-though
 User can now create multiple flashcards and browse through them. User can re-open the app and see previously created flashcards.
 
-<img src="http://g.recordit.co/jaDc2lEdK3.gif" width=200><br>
+<img src="http://g.recordit.co/6eCRJIypNw.gif" width=200><br>
 
 
 ## Required
